@@ -16,8 +16,8 @@ Basics
 [x] 01 System Setup
 [x] 02 getting Started
 [x] 03 Basics
-[ ] 04 Pattern Matching
-[ ] 05 Control Flow
+[x] 04 Pattern Matching
+[x] 05 Control Flow
 [ ] 06 Pipeline Operator
 [ ] 07 Modules
 [ ] 08 Macros

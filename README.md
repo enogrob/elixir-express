@@ -8,3 +8,24 @@ Erlang is a functional language with focuses on concurrency and fault tolerance.
 ## Why Elixir?
 
 Elixir is a language is built on top of the Erlang VM. Elixir exists with the goal to build concurrent, distributed, fault-tolerant systems with productive and powerful language features. Mainstream languages were constructed around limited CPUs, threading, and shared-everything state. This concurrency models can become fragile and can make concurrent programs difficult to reason about. Other languages skirt these issues by running on a single CPU with multiple processes to achieve concurrency; however, as Moore's Law pushes us towards increasing multicore CPUs, this approach becomes unmanageable. Elixir's immutable state, Actors, and processes produce a concurrency model that is easy to reason about and allows code to be written distributively without extra fanfare. Additionally, by building on top of Erlang, Elixir can take advantage of all the libraries and advantages that the Erlang ecosystem has to offer.
+
+**Contents**
+
+```
+Basics
+[x] 01 System Setup
+[x] 02 getting Started
+[x] 03 Basics
+[ ] 04 Pattern Matching
+[ ] 05 Control Flow
+[ ] 06 Pipeline Operator
+[ ] 07 Modules
+[ ] 08 Macros
+Advanced
+[ ] Processes
+[ ] Protocols
+[ ] Holding State
+[ ] Maps
+[ ] Lib
+[ ] Otp
+```

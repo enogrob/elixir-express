@@ -18,8 +18,8 @@ Basics
 [x] 03 Basics
 [x] 04 Pattern Matching
 [x] 05 Control Flow
-[ ] 06 Pipeline Operator
-[ ] 07 Modules
+[x] 06 Pipeline Operator
+[x] 07 Modules
 [ ] 08 Macros
 Advanced
 [ ] Processes

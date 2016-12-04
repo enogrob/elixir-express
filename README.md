@@ -20,7 +20,7 @@ Basics
 [x] 05 Control Flow
 [x] 06 Pipeline Operator
 [x] 07 Modules
-[ ] 08 Macros
+[x] 08 Macros
 Advanced
 [ ] Processes
 [ ] Protocols

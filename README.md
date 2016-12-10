@@ -22,7 +22,7 @@ Basics
 [x] 07 Modules
 [x] 08 Macros
 Advanced
-[ ] Processes
+[x] Processes
 [ ] Protocols
 [ ] Holding State
 [ ] Maps

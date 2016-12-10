@@ -67,6 +67,4 @@ iex(4)> Stack.Client.pop
 3
 iex(5)> Stack.Client.pop
 nil
-
-
 ```

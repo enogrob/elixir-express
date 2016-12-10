@@ -130,7 +130,7 @@ iex(27)> Process.register pid, :count
 true
 iex(28)> Process.whereis(:count) == pid
 true
-iex(29)> send :count, :inc
+iex(29)> send :count, {self, :val}
 :inc
 iex(30)> receive do
 ...(30)>   value -> value

@@ -23,9 +23,9 @@ Basics
 [x] 08 Macros
 Advanced
 [x] Processes
+[x] Holding State
+[ ] Otp
 [ ] Protocols
-[ ] Holding State
 [ ] Maps
 [ ] Lib
-[ ] Otp
 ```

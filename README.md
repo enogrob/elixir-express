@@ -24,8 +24,8 @@ Basics
 Advanced
 [x] Processes
 [x] Holding State
-[ ] Otp
-[ ] Protocols
-[ ] Maps
-[ ] Lib
+[x] Otp
+[x] Protocols
+[x] Maps
+[x] Lib
 ```
